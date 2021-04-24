@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "98816561495",
+    "firebase_url": "https://axiomatic-jet-269112.firebaseio.com",
+    "project_id": "axiomatic-jet-269112",
+    "storage_bucket": "axiomatic-jet-269112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98816561495:android:2203d481260b0ed0b7ee12",
+        "android_client_info": {
+          "package_name": "com.example.googlemaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98816561495-131lpus22dj13djf616isbqbm2bpkso2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi8xtUJYtq-jO7PFBgc_9A3it0C3sHxdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98816561495-131lpus22dj13djf616isbqbm2bpkso2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98816561495:android:b0543615716e7ed3b7ee12",
+        "android_client_info": {
+          "package_name": "tk.sha3rawi33.healthy_wealthy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98816561495-131lpus22dj13djf616isbqbm2bpkso2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi8xtUJYtq-jO7PFBgc_9A3it0C3sHxdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98816561495-131lpus22dj13djf616isbqbm2bpkso2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
